@@ -33,6 +33,7 @@
                     </div>
                 </div>
             </div>
+
             
             @empty
             <div class="col-12 col-md-8 fs-3 mt-5">

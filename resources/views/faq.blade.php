@@ -12,7 +12,7 @@
                     </button>
                   </h2>
                   <div id="flush-collapseOne2" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample2">
-                    <div class="accordion-body">{{__('spiegAcc')}}</div>
+                    <div class="accordion-body">{{__('ui.spiegAcc')}}</div>
                   </div>
                 </div>
                 <div class="accordion-item mt-3 mb-3">
